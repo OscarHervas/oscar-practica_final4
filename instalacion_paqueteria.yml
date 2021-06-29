@@ -1,4 +1,4 @@
-- name: "Plabook instalar paqueteria en los nodos dependiendo del grupo"
+- name: "Plabook ss instalar paqueteria en los nodos dependiendo del grupo"
   hosts: dev, test, prod
   vars:
     paqueteria:

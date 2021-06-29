@@ -1,4 +1,4 @@
-- name: "Uso de los facts con ansible"
+- name: "Uso de los facts ... con ansible"
   hosts: dev
   tasks:
     - name: Template a file to /etc/files.conf
