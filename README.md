@@ -1,5 +1,7 @@
 # oscar-practica_final4
 AWX-Practica_final
+
+
 Pregunta 1 - Git y Vscode
 Crearemos un proyecto en github (en nuestra parte personal) denominado "<nombre_personal>-Practica_final"
 
@@ -12,6 +14,8 @@ Clonaremos el repositorio en nuestros equipos
 Abriremos el repositorio con la herramienta Vscode
 
 Todos los archivos y directorio de las siguientes practicas se han de crear en este repo
+
+
 
 Pregunta 2 - Instalacion y Configuracion Ansible
 Instalamos ansible en el nodo personal
@@ -33,6 +37,8 @@ Crearemos un inventario con los siguetes datos:
 - Grupos_hijos: dev, test, proxy, prod
 - Grupo_padre: webservers
 - Dentro de cada grupo hijo, daremos de alta nuestro nodo personal
+
+
 Pregunta 3 - Comandos Ad-hoc
 Crearemos un archivo denominado install_repo.sh
 
@@ -42,6 +48,8 @@ Dentro del archivo anterior, declararemos un comando ad-hoc para crear un reposi
 - baseurl --> https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rmp
 - gpgcheck --> no
 - Estara deshabilitado
+
+
 Pregunta 4 - Condicionales
 Crearemos un playbook denominado "instalacion_paqueteria.yml"
 
