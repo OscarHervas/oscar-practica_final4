@@ -16,6 +16,7 @@ Abriremos el repositorio con la herramienta Vscode
 Todos los archivos y directorio de las siguientes practicas se han de crear en este repo
 
 Pregunta 2 - Instalacion y Configuracion Ansible
+
 Instalamos ansible en el nodo personal
 
 Comprobaremos la version de ansible y la version de python que usara
