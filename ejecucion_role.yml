@@ -1,0 +1,5 @@
+---
+- name: "Ejecucion del role de httpd"
+  hosts: prod
+  roles:
+    - roles/ejemplo-apache
